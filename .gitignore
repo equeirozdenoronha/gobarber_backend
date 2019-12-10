@@ -55,10 +55,10 @@ typings/
 
 # Optional npm cache directory
 .npm
-
+.vscode
 # Optional eslint cache
 .eslintcache
-
+.env
 # Optional REPL history
 .node_repl_history
 
