@@ -19,7 +19,7 @@
     "pg-hstore": "^2.3.3",
     "sequelize": "^6.19.1",
     "yup": "^0.27.0",
-    "snyk": "^1.316.1"
+    "snyk": "^1.1064.0"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
